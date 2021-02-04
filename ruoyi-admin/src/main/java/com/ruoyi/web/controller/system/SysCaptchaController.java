@@ -31,6 +31,8 @@ public class SysCaptchaController extends BaseController
     @Resource(name = "captchaProducerMath")
     private Producer captchaProducerMath;
 
+
+
     /**
      * 验证码生成
      */
